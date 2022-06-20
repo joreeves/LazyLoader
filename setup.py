@@ -12,5 +12,5 @@ setup(name='LazyLoader',
       author_email='',
       license='MIT',
       packages=['lazyloader'],
-      install_requires=['__future__', 'importlib', 'types', 'logging'],
+      install_requires=['importlib', 'types', 'logging'],
       zip_safe=False)
