@@ -1,1 +1,1 @@
-from lazyloader import LazyLoader
+from .lazyloader import LazyLoader
